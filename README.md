@@ -5,8 +5,8 @@
 - 📌 I'm currently working on Twitter API and Spotify API. 
 - 💞️ I’m looking to collaborate on Data Visualization, Big Data, and Machine Learning.
 
-  - **📫 How to reach me ... feel free to reach me at erikayidesign@gmail.com for collaboration, projects, and freelance work!**
-  - **📌 My Tableau public page is https://public.tableau.com/profile/erika.yi**
+  - **📫 Feel free to reach me at erikayidesign@gmail.com for collaboration, projects, and freelance work!**
+  - **📌 My Tableau public page is https://public.tableau.com/profile/erika.yi for the data visualizations I designed!**
 
 
 <!---
