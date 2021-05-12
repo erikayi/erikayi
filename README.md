@@ -1,9 +1,9 @@
 ### Hi!👋 I’m @erikayi
 
-- 👀 I’m interested in Big Data, Machine Learning, Data Visualization, and Web Development.
+- 👀 I’m interested in Big Data, Machine Learning, Data Visualization, Data Engineering, Data Analytics, Statistics, and Web Development.
 - 🌱 I’m currently learning React.js, R, Python, Spark, and Tableau.
 - 📌 I'm currently working on Twitter API and Spotify API. 
-- 💞️ I’m looking to collaborate on Data Visualization, Big Data, and Machine Learning.
+- 💞️ I’m looking to collaborate on Data Visualization, Big Data, Data Engineering, Data Analytics, and Machine Learning.
 
   - **📫 Feel free to reach me at erikayidesign@gmail.com for collaboration, projects, and freelance work!**
   - **📌 My Tableau public page is https://public.tableau.com/profile/erika.yi for the data visualizations I designed!**
