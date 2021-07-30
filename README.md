@@ -7,7 +7,7 @@
 🎶Passionate in **Python**, **API**, **Big Data**, **Machine Learning**, **Data Visualization**, **Data Engineering**, and **Data Analytics**.🎶
 <p>Hands-on experiences in Python, Python libraries, JS, JS libraries, HTML/CSS, Spark, ETL, PostgreSQL, MongoDB, Tableau, and more.</p>
 
-✨*Current Status: Creating one project for a web app and another project for visualization for personal projects*✨
+<!-- ✨*Current Status: Creating one project for a web app and another project for visualization for personal projects*✨ -->
 
 ***
 ### 🔗Portfolio Links
