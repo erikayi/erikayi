@@ -6,7 +6,7 @@
 	
 - ✨ I'm currently looking for awesome team to work together! ✨
 - 🎯 I use daily: `API`, `.py`, `.ipynb`, `.csv`, `.html`, `.css`, `.js`, `.sqlite`, `.sql`, `.sav`, `.xlsx`, `.twbx`, `.json`
-- 🌱 I'm currently exploring more on: **AWS for Data Analytics**
+- 🌱 I'm currently exploring more on: **AWS for Data Analytics (Big Data)**
 <!-- - **React**, **Node**, -->
 <!-- - 💬 Ping me about: **Graphic Design**, **Web Design**, **Art**, **Resident Evil Series** -->
 - 💬 Ping me about: **Animals**, **Games**, **Resident Evil Series**
