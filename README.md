@@ -6,10 +6,12 @@
 	
 - ✨ I'm currently looking for awesome team to work together! ✨
 - 🎯 I use daily: `API`, `.py`, `.ipynb`, `.csv`, `.html`, `.css`, `.js`, `.sqlite`, `.sql`, `.sav`, `.xlsx`, `.twbx`, `.json`
-- 🌱 I'm currently exploring more on: **React**, **Node**, **AWS**
-- 💬 Ping me about: **Graphic Design**, **Web Design**, **Art**, **Resident Evil Series**
+- 🌱 I'm currently exploring more on: **AWS for Data Analytics**
+<!-- - **React**, **Node**, -->
+<!-- - 💬 Ping me about: **Graphic Design**, **Web Design**, **Art**, **Resident Evil Series** -->
+- 💬 Ping me about: **Animals**, **Games**, **Resident Evil Series**
 - 🎨 Love: `.psd`, `.ai`, `.indd`
-- 💜 I'm spirited about: **Gaming**, **Resident Evil Series**, **Monster Hunter**, **My Buddy 🐶Koco**
+- 💜 I'm spirited about: **Gaming**, **Designing**, **Drawing**, **Resident Evil Series**, **Monster Hunter**, **Final Fantasy**, **My Buddy 🐶Koco**
 - 😆 Passionate in helping others to build, to create, and to design codes! 
 
 **Discover me on social media:**
