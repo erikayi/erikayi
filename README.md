@@ -4,7 +4,7 @@
 
 **I'm a Data Scientist/Engineer based on New Jersey.**
 	
-- ✨ I'm currently looking for awesome team to work together! ✨
+<!-- - ✨ I'm currently looking for awesome team to work together! ✨ -->
 - 🎯 I use daily: `API`, `.py`, `.ipynb`, `.csv`, `.html`, `.css`, `.js`, `.sqlite`, `.sql`, `.sav`, `.xlsx`, `.twbx`, `.json`
 - 🌱 I'm currently exploring more on: how to design a awesome visualization for data
 <!-- - **React**, **Node**, -->
