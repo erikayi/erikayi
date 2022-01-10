@@ -11,7 +11,7 @@
 <!-- - 💬 Ping me about: **Graphic Design**, **Web Design**, **Art**, **Resident Evil Series** -->
 - 💬 Ping me about: **Animals**, **Games**, **Resident Evil Series**
 - 🎨 Love: `.psd`, `.ai`, `.indd`
-- 💜 I'm spirited about: **Gaming**, **Designing**, **Drawing**, **Resident Evil Series**, **Monster Hunter**, **Final Fantasy**, **My Buddy 🐶Koco**
+- 💜 I'm spirited about: **Gaming**, **Designing**, **Drawing**, **Resident Evil Series**, **Monster Hunter**, **Final Fantasy**, **My Dog 🐶Koco**
 - 😆 Passionate in helping others to build, to create, and to design codes! 
 
 **Discover me on social media:**
