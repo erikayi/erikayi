@@ -2,17 +2,18 @@
 
 ***
 
-**I'm a Data Scientist/Engineer based on New Jersey.**
+**I'm a data-driven designer based on New Jersey.**
 	
-<!-- - ✨ I'm currently looking for awesome team to work together! ✨ -->
-- 🎯 I use daily: `API`, `.py`, `.ipynb`, `.csv`, `.html`, `.css`, `.js`, `.sqlite`, `.sql`, `.sav`, `.xlsx`, `.twbx`, `.json`
+- 🎯 I use daily: `API`, `.py`, `.ipynb`, `.csv`, `.html`, `.css`, `.js`, `.sqlite`, `.sql`, `.sav`, `.xlsx`, `.twbx`, `.json`, `.jsx`
+- 😎 I also use these as well: **Bootstrap**, **NodeJS**, **MongoDB**, **Mongoose**
 - 🌱 I'm currently exploring more on: how to design a awesome visualization for data
-<!-- - **React**, **Node**, -->
-<!-- - 💬 Ping me about: **Graphic Design**, **Web Design**, **Art**, **Resident Evil Series** -->
 - 💬 Ping me about: **Animals**, **Games**, **Resident Evil Series**
 - 🎨 Love: `.psd`, `.ai`, `.indd`
-- 💜 I'm spirited about: **Gaming**, **Designing**, **Drawing**, **Resident Evil Series**, **Monster Hunter**, **Final Fantasy**, **My Dog 🐶Koco**
+- 💜 I'm spirited about: **Gaming**, **Designing**, **Drawing**, **Resident Evil Series**, **Monster Hunter**, **Final Fantasy**
+- 🐶 I have a dog named Koco. 
 - 😆 Passionate in helping others to build, to create, and to design codes! 
+<!-- - 💬 Ping me about: **Graphic Design**, **Web Design**, **Art**, **Resident Evil Series** -->
+<!-- - ✨ I'm currently looking for awesome team to work together! ✨ -->
 
 **Discover me on social media:**
 
