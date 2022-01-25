@@ -2,7 +2,7 @@
 
 ***
 
-**I'm a front-end developer/designer based in New Jersey.**
+**I'm a front-end developer based in New Jersey.**
 <!-- **I'm a data-driven designer based in New Jersey.** -->
 	
 - 🎯 I use daily: `.html`, `.css`, `.js`, `.json`, `.jsx`, `API`, `.sql`, `.twbx`, `.py`, `.ipynb`, `.sqlite`
