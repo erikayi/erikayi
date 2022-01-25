@@ -2,11 +2,11 @@
 
 ***
 
-**I'm a data-driven designer based on New Jersey.**
+**I'm a data-driven designer based in New Jersey.**
 	
-- 🎯 I use daily: `API`, `.py`, `.ipynb`, `.csv`, `.html`, `.css`, `.js`, `.sqlite`, `.sql`, `.sav`, `.xlsx`, `.twbx`, `.json`, `.jsx`
-- 😎 I also use these as well: **Bootstrap**, **NodeJS**, **MongoDB**, **Mongoose**
-- 🌱 I'm currently exploring more on: how to design a awesome visualization for data
+- 🎯 I use daily: `.html`, `.css`, `.js`, `.json`, `.jsx`, `API`, `.sql`, `.twbx`, `.py`, `.ipynb`, `.sqlite`
+- 😎 I also use these as well: **Bootstrap**, **NodeJS**, **MongoDB**
+- 🌱 I'm currently exploring more on: how to design awesome visualization
 - 💬 Ping me about: **Animals**, **Games**, **Resident Evil Series**
 - 🎨 Love: `.psd`, `.ai`, `.indd`
 - 💜 I'm spirited about: **Gaming**, **Designing**, **Drawing**, **Resident Evil Series**, **Monster Hunter**, **Final Fantasy**
