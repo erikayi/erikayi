@@ -6,7 +6,7 @@
 **I'm a data-driven designer based in New Jersey.**
 	
 - 🎯 I use daily: `.html`, `.css`, `.js`, `.json`, `.jsx`, `API`, `.sql`, `.twbx`, `.py`, `.ipynb`, `.sqlite`
-- 😎 I also use: **Bootstrap**, **NodeJS**, **MongoDB**
+- 😎 I also use: **Bootstrap**, **ReactJS**, **NodeJS**, **MongoDB**
 - 🌱 I'm currently exploring more on: how to design awesome visualization
 - 💬 Ping me about: **Animals**, **Games**, **Resident Evil Series**
 - 🎨 Love: `.psd`, `.ai`, `.indd`
