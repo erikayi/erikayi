@@ -8,13 +8,13 @@
 - 🐣 Born in South Korea
 - 🐔 Raised in the United States 
 - 🎯 I love to use: `.html`, `.css`, `.js`, `.json`, `.jsx`, `RESTful API`, `.sql`, `.twbx`, `.py`, `.ipynb`, `.sqlite`
-- 😎 I am confident using: **Bootstrap**, **ReactJS**, **ExpressJS**, **NodeJS**, **MongoDB**
+- 😎 I am confident using: `Bootstrap`, `ReactJS`, `ExpressJS`, `NodeJS`, `MongoDB`
 
 ***
 
-- 🌱 I'm currently exploring more on: ReactJS, NodeJS, ExpressJS, Tableau
+- 🌱 I'm currently exploring more on: `ReactJS`, `NodeJS`, `Tableau`
 - 💬 I am curious about: `Machine Learning`, `Artificial Intelligence`
-- 🤩 I Love: 🐶**Animals**, 🎮**Video Games**, **Resident Evil Series**, **Final Fantasy Series**
+- 🤩 I Love: `🐶Animals`, `🎮Video Games`, `Resident Evil Series`, `Final Fantasy Series`
 
 *** 
 
