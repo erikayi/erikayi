@@ -3,7 +3,7 @@
 
 ***
 
-**I'm a data-driven designer based in New Jersey.**
+**I'm a data-driven designer/developer based in New Jersey.**
 
 - 🐣 Born in South Korea
 - 🐔 Raised in the United States 
