@@ -8,6 +8,7 @@
 - 🐣 Born in South Korea
 - 🐔 Raised in the United States 
 - 💜 Speak & Write: ENG | KOR | JP 
+- 📍 Willing to relocate 
 - 🎯 I love to use: `.html`, `.css`, `.js`, `.json`, `.jsx`, `RESTful API`, `.sql`, `.twbx`, `.py`, `.ipynb`, `.sqlite`
 - 😎 I am confident using: `Bootstrap`, `ReactJS`, `ExpressJS`, `NodeJS`, `MongoDB`
 
