@@ -15,7 +15,7 @@
 ***
 
 - 🌱 I'm currently exploring more on: `MERN Stack`, `Python`, `Tableau`
-- 🚧 I'm currently building: `My React Portfolio Page`
+- 🚧 I'm currently building: `My React Portfolio Page`, `Simple Sushi Uber Menu React App`
 - 💬 I am curious about: `Machine Learning`, `Artificial Intelligence`, `Game Development`
 - 🤩 I Love: `🐶Animals`, `🎮Video Games`, `Resident Evil Series`, `Final Fantasy Series`
 
