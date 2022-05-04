@@ -8,13 +8,14 @@
 - 🐣 Born in South Korea
 - 🐔 Raised in the United States 
 - 💜 Speak & Write: ENG | KOR | JP 
-- 📍 Willing to relocate 
 - 🎯 I am in love with: `.py`, `.ipynb`, `.sqlite`, `.sql`, `.twbx`, `.html`, `.css`, `.js`, `.json`, `.jsx`, `RESTful API`
 - 😎 I am also confident using: `Bootstrap`, `ReactJS`, `ExpressJS`, `NodeJS`, `MongoDB`
+<!-- - 📍 Willing to relocate  -->
 
 ***
 
-- 🌱 I'm currently exploring more on: `ReactJS`, `NodeJS`, `Tableau`
+- 🌱 I'm currently exploring more on: `MERN Stack`, `Python`, `Tableau`
+- 🚧 I'm currently building: `My React Portfolio Page`
 - 💬 I am curious about: `Machine Learning`, `Artificial Intelligence`, `Game Development`
 - 🤩 I Love: `🐶Animals`, `🎮Video Games`, `Resident Evil Series`, `Final Fantasy Series`
 
