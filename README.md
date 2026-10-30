@@ -1,7 +1,7 @@
-### What's up, I’m Erika!
+### What's up, I’m Erika! My preferred name is Alessia!
 (๑•̀ㅂ•́)و✧
 
-***
+<!--***
 
 **I'm a data-driven designer/developer based in New Jersey.**
 
@@ -12,7 +12,7 @@
 - 😎 I am also confident using: `Bootstrap`, `ReactJS`, `ExpressJS`, `NodeJS`, `MongoDB`
 <!-- - 📍 Willing to relocate  -->
 
-***
+<!--***
 
 - 🌱 I'm currently exploring more on: `MERN Stack`, `Python`, `Tableau`
 - 🚧 I'm currently building: `My React Portfolio Page`, `Simple Sushi Uber Menu React App`
@@ -25,7 +25,7 @@
 - 🐶 I have a dog, Koco. 
 - 😆 I want to help others to build, to create, and to design codes!
 
-***
+***-->
 
 **My Work:**
 
