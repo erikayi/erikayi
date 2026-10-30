@@ -29,7 +29,7 @@
 
 **My Work:**
 
-- 🌐 My projects: [Portfolio](https://erikayi.github.io "Portfolio")
+- 🌐 My projects: [Portfolio](https://erikayi.github.io "Work")
 - 📊 My data visualization work: [Tableau](https://public.tableau.com/profile/erika.yi "Tableau")
 - 📧 For business inquiries, reach me at erikayidesign[at]gmail.com
 
