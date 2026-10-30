@@ -31,7 +31,7 @@
 
 - 🌐 My projects: [Portfolio](https://erikayi.github.io "Portfolio")
 - 📊 My data visualization work: [Tableau](https://public.tableau.com/profile/erika.yi "Tableau")
-- 📧 For business inquiries, reach me at <erikayidesign@gmail.com>
+- 📧 For business inquiries, reach me at erikayidesign[at]gmail.com
 
 <!-- - 💼 Connect me on [Linkedin](https://linkedin.com/in/erikayidesign "Linkedin") -->
 <!-- - 🦜 Join me talking about daily Tech, Olympics, Gaming, and K-pop: [Twitter](https://twitter.com/erikayi_dev "Twitter") -->
